@@ -1,4 +1,4 @@
-# Rostislav Cherepanov. Portfolio
+# Rostislav Cherepanov
 The links below show my skills in related apps.
 * [YouTrack](https://cherrost.youtrack.cloud/)
 * [Postman](https://www.postman.com/orbital-module-astronomer-70757970/workspace/cher-rost-public)
