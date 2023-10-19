@@ -47,7 +47,7 @@ In this workspace there are two collections: in one I have automated part of the
 
 This link contains the project to automate the checklist for a specific field in the request to create a set of products in the educational application Yandex Counter.
 
-[Link to project repository in PyCharm c SQL on GitHub](https://github.com/webcheriff/project_12_final_project.git)
+[Link to project repository in PyCharm with SQL on GitHub](https://github.com/webcheriff/project_12_final_project.git)
 
 Here is a project to automate the finished scenario and database queries.
 
@@ -60,7 +60,7 @@ Here is a project to automate the finished scenario and database queries.
 
 * Check whether the created order is displayed in the database.
 
-> To do this, I have deduced the list of couriers' logins with the number of their orders in the status ¹«In delivery»¹.
+> To do this, I have deduced the list of couriers' logins with the number of their orders in the status `In delivery`.
 
 * Ensure that the order status is recorded correctly in the database.
 
