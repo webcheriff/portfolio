@@ -17,7 +17,7 @@ Due to project conditions there was little time for testing, so the format of te
 
 [Link to YouTrack](https://cherrost.youtrack.cloud/)
 
-On the board are bug reports that I found during the execution of two projects. In one it was necessary to test part of functionality of API of educational application Yandex Counter, in the other - to automate test API of educational application Yandex Scooter.
+The board contains reports of defects that I found while completing projects: training and test tasks for company vacancies.
 
 ### Miro
 
