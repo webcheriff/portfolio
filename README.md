@@ -4,9 +4,9 @@ Hi! My name is Rostislav and I'm QA Engineer. I'm staying in Belgrade, Serbia no
 
 See my portfolio [here](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(EN).md).
 
-My resume is available on [Google Drive](https://drive.google.com/file/d/1EfpuRLkH5FL9VVdbNUzpQEH-9vuF7zAt/view?usp=drivesdk) and so far only in Russian.
+My resume is available on [Google Drive](https://drive.google.com/file/d/1-SLUfWtjm55hlBn2uD8r78-qlcPs82Gy/view?usp=sharing).
 
-But there is a profile on [LinkedIn](https://www.linkedin.com/in/cherrost).
+And there is a profile on [LinkedIn](https://www.linkedin.com/in/cherrost).
 
 ---
 
