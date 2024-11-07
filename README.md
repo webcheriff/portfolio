@@ -1,6 +1,6 @@
 # README
 
-Hi! My name is Rostislav and I'm QA Engineer from Saint-Petersburg, Russia.
+Hi! My name is Rostislav and I'm QA Engineer. I'm staying in Belgrade, Serbia now.
 
 See my portfolio [here](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(EN).md).
 
@@ -10,7 +10,7 @@ But there is a profile on [LinkedIn](https://www.linkedin.com/in/cherrost).
 
 ---
 
-Привет! Меня зовут Ростислав и я инженер по тестированию ПО из Санкт-Петербурга.
+Привет! Меня зовут Ростислав и я инженер по тестированию ПО. Сейчас нахожусь в Белграде, Сербия.
 
 Ознакомиться с моим портфолио можно по [этой ссылке](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(RU).md).
 
