@@ -79,7 +79,8 @@
 
 На этих тренажёрах я работал с кроссплатформенным и кроссбраузерным тестированием, проверял вёрстку, запросы фронтенда и ответы бэкенда
 
-* [Яндекс Маршруты](https://drive.google.com/open?id=10_EjPSTjhbFNqMBkD5yBY6DoyDUsdwG5&usp=drive_fs)
+* [Маршруты](https://drive.google.com/open?id=10_EjPSTjhbFNqMBkD5yBY6DoyDUsdwG5&usp=drive_fs)
+* [Прилавок](https://drive.google.com/open?id=10umGF6JDTJ84Ug_KVcEOe1BleDGhWkOT&usp=drive_fs)
 * [Stellar Burger](http://burger-frontend-12.prakticum-team.ru) ([архивная копия](https://drive.google.com/open?id=10n-na5bfLlgLeitogRjxTYIV4F0WQ2DC&usp=drive_fs), если не работает предыдущая)
 
 *Портфолио дополняется.*
