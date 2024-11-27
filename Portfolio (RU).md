@@ -73,4 +73,11 @@
 > * Если `inDelivery == true`, то вывел статус 1.
 > * Для остальных случаев вывел 0.
 
+## HTML, CSS. Frontend, backend
+
+### Тренажёры
+
+* [Яндекс Маршруты](https://drive.google.com/open?id=10_EjPSTjhbFNqMBkD5yBY6DoyDUsdwG5&usp=drive_fs)
+* [Stellar Burger](http://burger-frontend-12.prakticum-team.ru) ([архивная копия](https://drive.google.com/open?id=10n-na5bfLlgLeitogRjxTYIV4F0WQ2DC&usp=drive_fs), если не работает предыдущая). [Отчёт о тестировании](https://docs.google.com/document/d/1ne7pd9IC7SaX_-Kw_yTmUh8wJY2HIg5f4fsn-ejSx7s/edit?usp=sharing)
+
 *Портфолио дополняется.*
