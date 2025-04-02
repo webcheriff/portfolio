@@ -25,8 +25,6 @@ The board contains reports of defects that I found while completing projects: tr
 
 On the board is a diagram of connections, which I based on the analysis of requirements to the application Yandex Routes.
 
-[Requirements](https://wiki.yandex.ru/homepage/trebovanija-k-jandeks.marshruty/) to Application Yandex Routes 1.0
-
 ## SQL & Automation API
 
 ### Postman
