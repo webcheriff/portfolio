@@ -6,7 +6,7 @@ See my portfolio [here](https://github.com/webcheriff/portfolio/blob/main/Portfo
 
 My resume is available on [Google Drive](https://drive.google.com/file/d/1-SLUfWtjm55hlBn2uD8r78-qlcPs82Gy/view?usp=sharing).
 
-And there is a profile on [LinkedIn](https://www.linkedin.com/in/cherrost).
+And there is a profile on [LinkedIn](https://www.linkedin.com/in/bpngton).
 
 ---
 
@@ -16,4 +16,4 @@ And there is a profile on [LinkedIn](https://www.linkedin.com/in/cherrost).
 
 А резюме доступно на [Google Drive](https://drive.google.com/file/d/1EfpuRLkH5FL9VVdbNUzpQEH-9vuF7zAt/view?usp=drivesdk).
 
-Мой профиль на [LinkedIn](https://www.linkedin.com/in/cherrost).
+Мой профиль на [LinkedIn](https://www.linkedin.com/in/bpngton).
