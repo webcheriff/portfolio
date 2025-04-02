@@ -25,19 +25,11 @@
 
 На доске представлена диаграмма связей, которую я основал на анализе требований к приложению Яндекс Маршруты.
 
-[Требования](https://wiki.yandex.ru/homepage/trebovanija-k-jandeks.marshruty/) к приложению Яндекс Маршруты 1.0
-
-### Отчёт о тестировании
-
-[Ссылка на отчёт о тестировании](https://docs.google.com/document/d/1kRWoBRF5qjsW6nF53rvZZ-kRVEpj43sh0DrqEonNxzI/edit?usp=sharing)
-
-Данный отчёт создал в рамках проекта по тестированию API приложения Яндекс Прилавок.
-
 ## SQL & API Automation
 
 ### Postman
 
-[Ссылка на рабочее пространство в Postman](https://www.postman.com/orbital-module-astronomer-70757970/workspace/cher-rost-public)
+[Ссылка на рабочее пространство в Postman](https://www.postman.com/rostislav-postman/workspace/cher-rost-public)
 
 В этом рабочем пространстве есть две коллекции: в одной я автоматизировал часть теста (описание в коллекции) для интернет-магазина животных, а в другой составил набор необходимых проверок для тестирования учебного приложения Яндекс Самокат.
 
@@ -77,10 +69,10 @@
 
 ### Тренажёры
 
-На этих тренажёрах я работал с кроссплатформенным и кроссбраузерным тестированием, проверял вёрстку, запросы фронтенда и ответы бэкенда
-
+На этих тренажёрах я работал с кроссплатформенным и кроссбраузерным тестированием, проверял вёрстку, запросы фронтенда и ответы бэкенда.
+По ссылкам доступны архивные копии `.webarchive`.
 * [Маршруты](https://drive.google.com/open?id=10_EjPSTjhbFNqMBkD5yBY6DoyDUsdwG5&usp=drive_fs)
 * [Прилавок](https://drive.google.com/open?id=10umGF6JDTJ84Ug_KVcEOe1BleDGhWkOT&usp=drive_fs)
-* [Stellar Burger](http://burger-frontend-12.prakticum-team.ru) ([архивная копия](https://drive.google.com/open?id=10n-na5bfLlgLeitogRjxTYIV4F0WQ2DC&usp=drive_fs), если не работает предыдущая)
+* [Stellar Burger](https://drive.google.com/open?id=10n-na5bfLlgLeitogRjxTYIV4F0WQ2DC&usp=drive_fs)
 
 *Портфолио дополняется.*
