@@ -65,4 +65,14 @@ Here is a project to automate the finished scenario and database queries.
 > * If `inDelivery == true`, I derived the status 1.
 > * For the rest of cases I deduced 0.
 
+## HTML, CSS. Frontend, backend
+
+### Simulators
+
+On these simulators, I worked with cross-platform and cross-browser testing, checked layouts, frontend requests, and backend responses.
+The links provide archived `.webarchive` copies.
+* [Routes](https://drive.google.com/open?id=10_EjPSTjhbFNqMBkD5yBY6DoyDUsdwG5&usp=drive_fs)
+* [Counter](https://drive.google.com/open?id=10umGF6JDTJ84Ug_KVcEOe1BleDGhWkOT&usp=drive_fs)
+* [Stellar Burger](https://drive.google.com/open?id=10n-na5bfLlgLeitogRjxTYIV4F0WQ2DC&usp=drive_fs)
+
 *The portfolio is expanded.*
