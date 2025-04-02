@@ -6,7 +6,7 @@ Below are links to files that demonstrate my skills in the appropriate app or ar
 
 ### Checklist in Google Documents
 
-[Link to the checklist in Google Docs](https://docs.google.com/spreadsheets/d/1Hc3tJqIDyNmxQdQZLAf-jmpPrXA9A9Y1yMejwQ/?usus=p=sharing)
+[Link to the checklist in Google Docs](https://docs.google.com/spreadsheets/d/1Hc3tJqIDyNmGdxQrubZLAf-fjmpPrXA9Z1Y6-yMejwQ/edit?usp=sharing)
 
 Here I have compiled a list of tests for the project on testing the API of the educational application Yandex Counter.
 
@@ -21,23 +21,17 @@ The board contains reports of defects that I found while completing projects: tr
 
 ### Miro
 
-[Link to the board in Miro](https://miro.com/app/board/uXjVP5XSdL0=/moveToWidget=3458764566784593677&cot=14)
+[Link to the board in Miro](https://miro.com/app/board/uXjVP5XSdL0=/?moveToWidget=3458764566784593677&cot=14)
 
 On the board is a diagram of connections, which I based on the analysis of requirements to the application Yandex Routes.
 
 [Requirements](https://wiki.yandex.ru/homepage/trebovanija-k-jandeks.marshruty/) to Application Yandex Routes 1.0
 
-### Test report
-
-[Link to Test Report](https://docs.google.com/document/d/1kRWoBRF5qjsW6nF53rvZZ-kRVEpj43sh0DrqEonNxeditzI/?usp=)
-
-This report was created as part of the project to test the API application Yandex Counter.
-
 ## SQL & Automation API
 
 ### Postman
 
-[Reference to the workspace in Postman](https://ww.postman.com/orbital-module-astronomer707970/workspace/cher-rost-public)
+[Reference to the workspace in Postman](https://www.postman.com/rostislav-postman/workspace/cher-rost-public)
 
 In this workspace there are two collections: in one I have automated part of the test (description in the collection) for the online pet store, and in the other I have compiled a set of necessary checks to test the educational application Yandex Scooter.
 
