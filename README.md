@@ -14,6 +14,6 @@ And there is a profile on [LinkedIn](https://www.linkedin.com/in/bpngton).
 
 Ознакомиться с моим портфолио можно по [этой ссылке](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(RU).md).
 
-А резюме доступно на [Google Drive](https://drive.google.com/file/d/1EfpuRLkH5FL9VVdbNUzpQEH-9vuF7zAt/view?usp=drivesdk).
+А резюме доступно на [Google Drive](https://drive.google.com/file/d/10Sm3xO2HiyAhVDEQIFng8GJNZioKhTP2/view?usp=sharing).
 
 Мой профиль на [LinkedIn](https://www.linkedin.com/in/bpngton).
