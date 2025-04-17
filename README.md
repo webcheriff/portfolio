@@ -11,7 +11,12 @@
 
 <a name="about-me"></a>
 ## About Me
-QA Engineer with experience in testing web and mobile applications for telecom companies (Megafon, MTT, Dom.ru). Value systematic approach and high-quality documentation. Strive to balance thorough verification with process efficiency. I'm staying in Belgrade, Serbia now.
+QA Engineer expirienced in telecom web/mobile testing: **2+ years total (1.5+ commercial)**.  
+**Core focus**:  
+- Systematic testing with documentation precision  
+- Balanced methodology (depth vs efficiency)  
+
+📍 Belgrade, Serbia (open to remote)  
 
 [↑ Back to top](#table-of-contents)
 
@@ -65,7 +70,12 @@ QA Engineer with experience in testing web and mobile applications for telecom c
 
 <a name="обо-мне"></a>
 ## Обо мне
-QA-инженер с опытом тестирования веб и мобильных приложений в телекоммуникационной сфере (МегаФон, МТТ, Дом.ру). Ценю системный подход и качественную документацию. Стараюсь находить баланс между тщательной проверкой и эффективностью процессов. Нахожусь сейчас в Белграде, Сербия.
+QA-инженер с опытом тестирования телеком-решений: **2+ года общих (1.5+ коммерческих)**.  
+**Основное**:  
+- Уделяю внимание документации  
+- Нахожу баланс глубины и скорости проверок  
+
+📍 Белград, Сербия (готов к удалённой работе)  
 
 [К началу ↑](#содержание)
 
