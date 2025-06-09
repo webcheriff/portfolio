@@ -7,7 +7,7 @@
 <!-- English version -->
 # Rostislav Cherepanov | QA Engineer
 
-[CV](https://drive.google.com/file/d/1-SLUfWtjm55hlBn2uD8r78-qlcPs82Gy/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/webcheriff) | [Portfolio](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(EN).md)
+[CV](https://drive.google.com/file/d/12Ns-pdOya-e8vJmFqP4o6U9v_lbKxF6h/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/webcheriff) | [Portfolio](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(EN).md)
 
 <a name="about-me"></a>
 ## About Me
@@ -66,7 +66,7 @@ QA Engineer expirienced in telecom web/mobile testing: **2+ years total (1.5+ co
 <!-- Русская версия -->
 # Ростислав Черепанов | QA Engineer
 
-[Резюме](https://drive.google.com/file/d/10Sm3xO2HiyAhVDEQIFng8GJNZioKhTP2/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/webcheriff) | [Портфолио](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(RU).md)
+[Резюме](https://drive.google.com/file/d/12-Gcdn7j5O4QI_HwftZ_DWtRbdJhV8RD/view?usp=sharing) | [LinkedIn](https://www.linkedin.com/in/webcheriff) | [Портфолио](https://github.com/webcheriff/portfolio/blob/main/Portfolio%20(RU).md)
 
 <a name="обо-мне"></a>
 ## Обо мне
