@@ -4,9 +4,9 @@ Below are links to files that demonstrate my skills in the appropriate app or ar
 
 ## Maintenance of documentation
 
-### Checklist in Google Documents
+### Checklist in Google Docs
 
-[Link to the checklist in Google Docs](https://docs.google.com/spreadsheets/d/1Hc3tJqIDyNmGdxQrubZLAf-fjmpPrXA9Z1Y6-yMejwQ/edit?usp=sharing)
+[Link to the checklist in Google Docs](https://drive.google.com/open?id=11YSWHB-NqBV1WSb6LRu-DKFR1AVh9HJ2)
 
 Here I have compiled a list of tests for the project on testing the API of the educational application Yandex Counter.
 
