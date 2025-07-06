@@ -6,7 +6,7 @@
 
 ### Чеклист в Google Документах
 
-[Ссылка на чеклист в Google  Docs](https://docs.google.com/spreadsheets/d/1Hc3tJqIDyNmGdxQrubZLAf-fjmpPrXA9Z1Y6-yMejwQ/edit?usp=sharing)
+[Ссылка на чеклист в Google Docs](https://drive.google.com/open?id=11YSWHB-NqBV1WSb6LRu-DKFR1AVh9HJ2)
 
 Здесь я составил список проверок для проекта по тестированию API учебного приложения Яндекс Прилавок.
 
