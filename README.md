@@ -16,7 +16,7 @@ QA Engineer expirienced in telecom web/mobile testing: **2+ years total (1.5+ co
 - Systematic testing with documentation precision  
 - Balanced methodology (depth vs efficiency)  
 
-📍 Belgrade, Serbia (open to remote)  
+📍 Irkutsk, Russia | Open to remote
 
 [↑ Back to top](#table-of-contents)
 
@@ -75,7 +75,7 @@ QA-инженер с опытом тестирования телеком-реш
 - Уделяю внимание документации  
 - Нахожу баланс глубины и скорости проверок  
 
-📍 Белград, Сербия (готов к удалённой работе)  
+📍 Иркутск, Россия | Готов к удалённой работе
 
 [К началу ↑](#содержание)
 
